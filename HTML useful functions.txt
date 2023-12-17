@@ -1,0 +1,7 @@
+###########  HTML functions name that will be usefull   ########
+
+<button> This creates a button </button>
+<p> This is used for paragraph </p>
+<br> This is used for lne break </br>
+<a> This is used for linking another website </a> (This is called anchor element)
+
