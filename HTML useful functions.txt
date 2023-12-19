@@ -6,3 +6,4 @@
 <a herf= "The Link of that website"> This is used for linking another website </a> (This is called anchor element)
 <a herf = "Link of the website" target = "_blank"> This will open the link of another website in a new tab </a>
 <style> { By usning this styles can be modified }</style> [It is a CSS property]
+margin = used for creating space in CSS
