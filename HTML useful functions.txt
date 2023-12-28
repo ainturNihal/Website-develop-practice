@@ -7,3 +7,5 @@
 <a herf = "Link of the website" target = "_blank"> This will open the link of another website in a new tab </a>
 <style> { By usning this styles can be modified }</style> [It is a CSS property]
 margin = used for creating space in CSS [margin-right(it will make space on right side) & viceversa]
+transition = Used for setting transition time.
+box-shadow = USed for making shadow under the button where 1px 2px and 3px are x axis,y axis and blur respectively.
