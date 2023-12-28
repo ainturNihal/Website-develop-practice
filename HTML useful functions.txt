@@ -15,3 +15,4 @@ border-radius = used for curving the edge of a button
 border-style = can be used how the border should look for example solid
 boder-color = changing color
 border-width = to change border thikness
+veritacl-align = makes it go on top use "align" to send something on top, like "align-down"  it will send things down
